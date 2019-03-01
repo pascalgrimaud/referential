@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "io.github.pascalgrimaud.referential"
+    },
+    "jhipsterVersion": "5.8.1",
+    "applicationType": "microservice",
+    "baseName": "referential",
+    "packageName": "io.github.pascalgrimaud.referential",
+    "packageFolder": "io/github/pascalgrimaud/referential",
+    "serverPort": "8081",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "YzkwMWRjZWViNDE2ODIxOTY1OTUwMjFkZWQ3OTRiMGYzZWJkOGY4OGMzZmQ0NjY1Y2QxZGEzMjMyZmFkN2IwYzYxM2ZhOTRjMmQwOTU2ZTMyMjFhMzhhNmFlMDBhMWZmMTJmOWFkNTBlMzhiZTlkNjQ4MjNkYzIwYjhmZjkzY2Y=",
+    "testFrameworks": [
+      "gatling"
+    ],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
