@@ -1,6 +1,7 @@
 version: '2'
 services:
   jhipster-registry:
+    network_mode: 'host'
     image: jhipster/jhipster-registry:v4.1.1
     volumes:
       - ./central-server-config:/central-config

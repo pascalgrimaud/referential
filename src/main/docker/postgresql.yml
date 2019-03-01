@@ -1,6 +1,7 @@
 version: '2'
 services:
   referential-postgresql:
+    network_mode: 'host'
     image: postgres:11.1
     # volumes:
     #     - ~/volumes/jhipster/referential/postgresql/:/var/lib/postgresql/data/
