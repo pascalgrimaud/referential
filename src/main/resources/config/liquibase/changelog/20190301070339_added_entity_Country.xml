@@ -62,8 +62,7 @@
         <loadData
                   file="config/liquibase/data/country.csv"
                   separator=";"
-                  tableName="country"
-                  context="dev">
+                  tableName="country">
             <column name="id" type="numeric"/>
             <column name="name" type="string"/>
             <column name="code_alpha_2" type="string"/>
