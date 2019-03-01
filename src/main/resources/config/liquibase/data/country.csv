@@ -1,11 +1,252 @@
 id;name;code_alpha_2;code_alpha_3;continent;indicatif;source
-1;mobile Fish;Home Loan Account Table Computer;Trace;Savings Account alarm;Tasty Metal Bacon;red Chips Soap
-2;Home Loan Account;web-readiness;Namibia;Steel zero administration;Multi-channelled Licensed;grey Cambridgeshire
-3;Canyon HDD;Table Small Frozen Sausages Planner;envisioneer Music Public-key;infomediaries;Investment Account;Games Regional Digitized
-4;copy convergence;Mayotte;Industrial;connect Markets Chief;capacitor archive;sky blue Tasty Plastic Pizza
-5;compress South Georgia and the South Sandwich Islands;compelling mission-critical;bifurcated scalable;Small;deliverables reinvent 24 hour;overriding
-6;monitor 1080p Checking Account;world-class Frozen IB;Highway Ergonomic;moratorium moratorium;New York tangible Mississippi;Frozen bus
-7;hard drive Robust Networked;Poland;Small partnerships;Outdoors;Harbor Montana;Corporate Phased relationships
-8;white Brand Money Market Account;Salad Web virtual;Refined Squares;maroon;EXE projection Fresh;support Gorgeous
-9;withdrawal;copying;ability Hat Iraq;magenta Concrete;User-centric Gloves;Mauritania
-10;facilitate Tasty Concrete Chips Exclusive;Buckinghamshire capability zero tolerance;mission-critical;Berkshire Small Plastic Pants Investor;Canadian Dollar;Berkshire Designer
+1;Afrique du Sud;ZA;ZAF;Afrique;+27;excel
+2;Algérie;DZ;DZA;Afrique;+213;excel
+3;Angola;AO;AGO;Afrique;+244;excel
+4;Benin;BJ;BEN;Afrique;+229;excel
+5;Botswana;BW;BWA;Afrique;+267;excel
+6;Burkina Faso;BF;BFA;Afrique;+226;excel
+7;Burundi;BI;BDI;Afrique;+257;excel
+8;Cameroun;CM;CMR;Afrique;+237;excel
+9;Cap-Vert;CV;CPV;Afrique;+238;excel
+10;Centrafricaine, république;CF;CAF;Afrique;+236;excel
+11;Comores;KM;COM;Afrique;+269;excel
+12;Côte d'Ivoire;CI;CIV;Afrique;+225;excel
+13;Djibouti;DJ;DJI;Afrique;+253;excel
+14;Égypte;EG;EGY;Afrique;+20;excel
+15;Érythrée;ER;ERI;Afrique;+291;excel
+16;Éthiopie;ET;ETH;Afrique;+251;excel
+17;Gabon;GA;GAB;Afrique;+241;excel
+18;Gambie;GM;GMB;Afrique;+220;excel
+19;Ghana;GH;GHA;Afrique;+233;excel
+20;Guinée;GN;GIN;Afrique;+224;excel
+21;Guinée équatoriale;GQ;GNQ;Afrique;+240;excel
+22;Guinée-Bissau;GW;GNB;Afrique;+245;excel
+23;Île Maurice;MU;MUS;Afrique;+230;excel
+24;Kenya;KE;KEN;Afrique;+254;excel
+25;La Réunion;RE;REU;Afrique;+262;excel
+26;Lesotho;LS;LSO;Afrique;+266;excel
+27;Liberia;LR;LBR;Afrique;+231;excel
+28;Libye;LY;LBY;Afrique;+218;excel
+29;Madagascar;MG;MDG;Afrique;+261;excel
+30;Malawi;MW;MWI;Afrique;+265;excel
+31;Mali;ML;MLI;Afrique;+223;excel
+32;Maroc;MA;MAR;Afrique;+212;excel
+33;Mauritanie;MR;MRT;Afrique;+222;excel
+34;Mozambique;MZ;MOZ;Afrique;+258;excel
+35;Namibie;NA;NAM;Afrique;+264;excel
+36;Niger;NE;NER;Afrique;+227;excel
+37;Nigéria;NG;NGA;Afrique;+234;excel
+38;Ouganda;UG;UGA;Afrique;+256;excel
+39;République démocratique du Congo;CD;COD;Afrique;+243;excel
+40;République du Congo;CG;COG;Afrique;+242;excel
+41;Rwanda;RW;RWA;Afrique;+250;excel
+42;Sahara Occidental;EH;ESH;Afrique;+212;excel
+43;Sainte-Hélène;SH;SHN;Afrique;+290;excel
+44;Sao Tomé-et-Principe;ST;STP;Afrique;+239;excel
+45;Sénégal;SN;SEN;Afrique;+221;excel
+46;Seychelles;SC;SYC;Afrique;+248;excel
+47;Sierra Leone;SL;SLE;Afrique;+232;excel
+48;Somalie;SO;SOM;Afrique;+252;excel
+49;Soudan;SD;SDN;Afrique;+249;excel
+50;Soudan du Sud;SS;SSD;Afrique;+211;excel
+51;Swaziland;SZ;SWZ;Afrique;+268;excel
+52;Tanzanie;TZ;TZA;Afrique;+255;excel
+53;Togo;TG;TGO;Afrique;+228;excel
+54;Tunisie;TN;TUN;Afrique;+216;excel
+55;Zambie;ZM;ZMB;Afrique;+260;excel
+56;Zimbabwe;ZW;ZWE;Afrique;+263;excel
+57;Anguilla;AI;AIA;Amérique;+1264;excel
+58;Argentine;AR;ARG;Amérique;+54;excel
+59;Aruba;AW;ABW;Amérique;+297;excel
+60;Bahamas;BS;BHS;Amérique;+1;excel
+61;Barbade;BB;BRB;Amérique;+1;excel
+62;Belize;BZ;BLZ;Amérique;+501;excel
+63;Bermudes;BM;BMU;Amérique;+1;excel
+64;Bolivie;BO;BOL;Amérique;+591;excel
+65;Brésil;BR;BRA;Amérique;+55;excel
+66;Canada;CA;CAN;Amérique;+1;excel
+67;Chili;CL;CHL;Amérique;+56;excel
+68;Colombie;CO;COL;Amérique;+57;excel
+69;Costa Rica;CR;CRI;Amérique;+506;excel
+70;Cuba;CU;CUB;Amérique;+53;excel
+71;Curaçao;CW;CUW;Amérique;+599;excel
+72;Dominique;DM;DMA;Amérique;+1;excel
+73;El Salvador;SV;SLV;Amérique;+503;excel
+74;Équateur;EC;ECU;Amérique;+593;excel
+75;États-Unis;US;USA;Amérique;+1;excel
+76;Groenland;GL;GRL;Amérique;+299;excel
+77;Guadeloupe;GP;GLP;Amérique;+590;excel
+78;Guatemala;GT;GTM;Amérique;+502;excel
+79;Guyana;GY;GUY;Amérique;+592;excel
+80;Haïti;HT;HTI;Amérique;+509;excel
+81;Honduras;HN;HND;Amérique;+504;excel
+82;Îles Caïmanes;KY;CYM;Amérique;+-344;excel
+83;Îles Falkland;FK;FLK;Amérique;+500;excel
+84;Îles Vierges;VG;VGB;Amérique;+1284;excel
+85;Jamaïque;JM;JAM;Amérique;+1;excel
+86;Mexique;MX;MEX;Amérique;+52;excel
+87;Montserrat;MS;MSR;Amérique;+1664;excel
+88;Nicaragua;NI;NIC;Amérique;+505;excel
+89;Panama;PA;PAN;Amérique;+507;excel
+90;Paraguay;PY;PRY;Amérique;+595;excel
+91;Pérou;PE;PER;Amérique;+51;excel
+92;Porto Rico;PR;PRI;Amérique;+1;excel
+93;République Dominicaine;DO;DOM;Amérique;+1;excel
+94;Saint-Barthélemy;BL;BLM;Amérique;+590;excel
+95;Saint-Christophe-et-Niévès;KN;KNA;Amérique;+1;excel
+96;Saint-Martin;MF;MAF;Amérique;+1599;excel
+97;Saint-Pierre et Miquelon;PM;SPM;Amérique;+508;excel
+98;Saint-Vincent-et-les Grenadines;VC;VCT;Amérique;+1;excel
+99;Sainte-Lucie;LC;LCA;Amérique;+1;excel
+100;Suriname;SR;SUR;Amérique;+597;excel
+101;Trinité-et-Tobago;TT;TTO;Amérique;+1;excel
+102;Uruguay;UY;URY;Amérique;+598;excel
+103;Venezuela;VE;VEN;Amérique;+58;excel
+104;Afghanistan;AF;AFG;Asie;+93;excel
+105;Arabie saoudite;SA;SAU;Asie;+966;excel
+106;Arménie;AM;ARM;Asie;+374;excel
+107;Azerbaïdjan;AZ;AZE;Asie;+994;excel
+108;Bahreïn;BH;BHR;Asie;+973;excel
+109;Bangladesh;BD;BGD;Asie;+880;excel
+110;Bhoutan;BT;BTN;Asie;+975;excel
+111;Brunei;BN;BRN;Asie;+673;excel
+112;Cambodge;KH;KHM;Asie;+855;excel
+113;Chine;CN;CHN;Asie;+86;excel
+114;Corée du Nord;KP;PRK;Asie;+850;excel
+115;Corée du Sud;KR;KOR;Asie;+82;excel
+116;Émirats Arabes Unis;AE;ARE;Asie;+971;excel
+117;Géorgie;GE;GEO;Asie;+995;excel
+118;Hong Kong;HK;HKG;Asie;+852;excel
+119;Inde;IN;IND;Asie;+91;excel
+120;Indonésie;ID;IDN;Asie;+62;excel
+121;Irak;IQ;IRQ;Asie;+964;excel
+122;Iran;IR;IRN;Asie;+98;excel
+123;Israël;IL;ISR;Asie;+972;excel
+124;Japon;JP;JPN;Asie;+81;excel
+125;Jordanie;JO;JOR;Asie;+962;excel
+126;Kazakhstan;KZ;KAZ;Asie;+7;excel
+127;Kirghizistan;KG;KGZ;Asie;+996;excel
+128;Koweït;KW;KWT;Asie;+965;excel
+129;Laos;LA;LAO;Asie;+856;excel
+130;Liban;LB;LBN;Asie;+961;excel
+131;Macao;MO;MAC;Asie;+853;excel
+132;Malaisie;MY;MYS;Asie;+60;excel
+133;Maldives;MV;MDV;Asie;+960;excel
+134;Mongolie;MN;MNG;Asie;+976;excel
+135;Myanmar;MM;MMR;Asie;+95;excel
+136;Népal;NP;NPL;Asie;+977;excel
+137;Oman;OM;OMN;Asie;+968;excel
+138;Ouzbékistan;UZ;UZB;Asie;+998;excel
+139;Pakistan;PK;PAK;Asie;+92;excel
+140;Philippines;PH;PHL;Asie;+63;excel
+141;Qatar;QA;QAT;Asie;+974;excel
+142;Singapour;SG;SGP;Asie;+65;excel
+143;Sri Lanka;LK;LKA;Asie;+94;excel
+144;Syrie;SY;SYR;Asie;+963;excel
+145;Tadjikistan;TJ;TJK;Asie;+992;excel
+146;Taiwan;TW;TWN;Asie;+886;excel
+147;Thaïlande;TH;THA;Asie;+66;excel
+148;Turkmenistan;TM;TKM;Asie;+993;excel
+149;Turquie;TR;TUR;Asie;+90;excel
+150;Viêt Nam;VN;VNM;Asie;+84;excel
+151;Yémen;YE;YEM;Asie;+967;excel
+152;Australie;AU;AUS;Australie & Océanie;+61;excel
+153;Fidji;FJ;FJI;Australie & Océanie;+679;excel
+154;Guam;GU;GUM;Australie & Océanie;+1671;excel
+155;Île Norfolk;NF;NFK;Australie & Océanie;+672;excel
+156;Îles Cook;CK;COK;Australie & Océanie;+682;excel
+157;Îles Mariannes du Nord;MP;MNP;Australie & Océanie;+1670;excel
+158;Îles Marshall;MH;MHL;Australie & Océanie;+692;excel
+159;Îles Pitcairn;PN;PCN;Australie & Océanie;+870;excel
+160;Îles Salomon;SB;SLB;Australie & Océanie;+677;excel
+161;Kiribati;KI;KIR;Australie & Océanie;+686;excel
+162;Micronésie;FM;FSM;Australie & Océanie;+691;excel
+163;Nauru;NR;NRU;Australie & Océanie;+674;excel
+164;Nioué;NU;NIU;Australie & Océanie;+683;excel
+165;Nouvelle-Calédonie;NC;NCL;Australie & Océanie;+687;excel
+166;Nouvelle-Zélande;NZ;NZL;Australie & Océanie;+64;excel
+167;Palaos;PW;PLW;Australie & Océanie;+680;excel
+168;Papouasie-Nouvelle-Guinée;PG;PNG;Australie & Océanie;+675;excel
+169;Polynésie Française;PF;PYF;Australie & Océanie;+689;excel
+170;Samoa;WS;WSM;Australie & Océanie;+685;excel
+171;Samoa américaines;AS;ASM;Australie & Océanie;+1684;excel
+172;Timor Oriental;TL;TLS;Australie & Océanie;+670;excel
+173;Tokelau;TK;TKL;Australie & Océanie;+690;excel
+174;Tuvalu;TV;TUV;Australie & Océanie;+688;excel
+175;Vanuatu;VU;VUT;Australie & Océanie;+678;excel
+176;Albanie;AL;ALB;Europe;+355;excel
+177;Allemagne;DE;DEU;Europe;+49;excel
+178;Andorre;AD;AND;Europe;+376;excel
+179;Autriche;AT;AUT;Europe;+43;excel
+180;Belgique;BE;BEL;Europe;+32;excel
+181;Biélorussie;BY;BLR;Europe;+375;excel
+182;Bosnie-Herzégovine;BA;BIH;Europe;+387;excel
+183;Bulgarie;BG;BGR;Europe;+359;excel
+184;Chypre;CY;CYP;Europe;+357;excel
+185;Croatie;HR;HRV;Europe;+385;excel
+186;Danemark;DK;DNK;Europe;+45;excel
+187;Espagne;ES;ESP;Europe;+34;excel
+188;Estonie;EE;EST;Europe;+372;excel
+189;Finlande;FI;FIN;Europe;+358;excel
+190;France;FR;FRA;Europe;+33;excel
+191;Gibraltar;GI;GIB;Europe;+350;excel
+192;Grande-Bretagne;GB;GBR;Europe;+44;excel
+193;Grèce;GR;GRC;Europe;+30;excel
+194;Hongrie;HU;HUN;Europe;+36;excel
+195;Île de Man;IM;IMN;Europe;+44;excel
+196;Îles Féroé;FO;FRO;Europe;+298;excel
+197;Irlande;IE;IRL;Europe;+353;excel
+198;Islande;IS;ISL;Europe;+354;excel
+199;Italie;IT;ITA;Europe;+39;excel
+200;Kosovo;XK;XKX;Europe;+381;excel
+201;Lettonie;LV;LVA;Europe;+371;excel
+202;Liechtenstein;LI;LIE;Europe;+423;excel
+203;Lituanie;LT;LTU;Europe;+370;excel
+204;Luxembourg;LU;LUX;Europe;+352;excel
+205;Macédoine;MK;MKD;Europe;+389;excel
+206;Malte;MT;MLT;Europe;+356;excel
+207;Moldavie;MD;MDA;Europe;+373;excel
+208;Monaco;MC;MCO;Europe;+377;excel
+209;Monténégro;ME;MNE;Europe;+382;excel
+210;Norvège;NO;NOR;Europe;+47;excel
+211;Pays-Bas;NL;NLD;Europe;+31;excel
+212;Pologne;PL;POL;Europe;+48;excel
+213;Portugal;PT;PRT;Europe;+351;excel
+214;République tchèque;CZ;CZE;Europe;+420;excel
+215;Roumanie;RO;ROU;Europe;+40;excel
+216;Russie;RU;RUS;Europe;+7;excel
+217;Saint-Marin;SM;SMR;Europe;+378;excel
+218;Serbie;RS;SRB;Europe;+381;excel
+219;Slovaquie;SK;SVK;Europe;+421;excel
+220;Slovénie;SI;SVN;Europe;+386;excel
+221;Suède;SE;SWE;Europe;+46;excel
+222;Suisse;CH;CHE;Europe;+41;excel
+223;Ukraine;UA;UKR;Europe;+380;excel
+224;Vatican;VA;VAT;Europe;+39;excel
+225;Antartique;AQ;ATA;Autre;+672;code
+226;Antigua-et-Barbuda;AG;ATG;Autre;+1;code
+227;Île Bouvet;BV;BVT;Autre;+55;code
+228;Territoire britannique de l’Océan Indien;IO;IOT;Autre;;code
+229;Tchad;TD;TCD;Autre;+235;code
+230;Île Christmas;CX;CXR;Autre;+61;code
+231;Îles Cocos;CC;CCK;Autre;+61;code
+232;Mayotte;YT;MYT;Autre;+262;code
+233;Géorgie du Sud et les Îles Sandwich du Sud;GS;SGS;Autre;+500;code
+234;Îles Åland;AX;ALA;Autre;+358;code
+235;Palestine;PS;PSE;Autre;+970;code
+236;Grenade;GD;GRD;Autre;+1;code
+237;Îles Heard-et-MacDonald;HM;HMD;Autre;;code
+238;Guyane française;GF;GUF;Europe;+594;code
+239;Terres australes et antarctiques françaises;TF;ATF;Europe;;code
+240;Antilles néerlandaises;AN;ANT;Autre;+599;code
+241;Saint-Martin (partie néerlandaise);SX;SXM;Autre;+1;code
+242;Saba, Saint-Eustache et Bonaire;BQ;BES;Autre;+599;code
+243;Îles mineures éloignées des États-Unis;UM;UMI;Autre;+1;code
+244;Svalbard et Jan Mayen;SJ;SJM;Autre;+47;code
+245;Tonga;TO;TON;Autre;+676;code
+246;Îles Turques-et-Caïques;TC;TCA;Autre;+1;code
+247;Guernesey;GG;GGY;Autre;+44;code
+248;Jersey;JE;JEY;Autre;+44;code
+249;Îles Vierges américaines;VI;VIR;Autre;+1;code
+250;Wallis-et-Futuna;WF;WLF;Autre;+681;code
+251;Martinique;MQ;MTQ;Europe;+596;code

@@ -12,6 +12,7 @@
             "fieldName": "codeAlpha2",
             "fieldType": "String",
             "fieldValidateRules": [
+                "unique",
                 "required"
             ]
         },

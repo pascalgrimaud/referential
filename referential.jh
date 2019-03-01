@@ -1,0 +1,13 @@
+// JDL definition for application 'referential' generated with command 'jhipster export-jdl'
+
+entity Country {
+  name String required,
+  codeAlpha2 String unique required,
+  codeAlpha3 String required,
+  continent String,
+  indicatif String,
+  source String
+}
+service Country with serviceClass
+microservice Country with referential
+clientRootFolder Country with referential

@@ -30,7 +30,7 @@ public class Country implements Serializable {
     private String name;
 
     @NotNull
-    @Column(name = "code_alpha_2", nullable = false)
+    @Column(name = "code_alpha_2", nullable = false, unique = true)
     private String codeAlpha2;
 
     @NotNull
