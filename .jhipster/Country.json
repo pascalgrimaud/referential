@@ -1,0 +1,49 @@
+{
+    "name": "Country",
+    "fields": [
+        {
+            "fieldName": "name",
+            "fieldType": "String",
+            "fieldValidateRules": [
+                "required"
+            ]
+        },
+        {
+            "fieldName": "codeAlpha2",
+            "fieldType": "String",
+            "fieldValidateRules": [
+                "required"
+            ]
+        },
+        {
+            "fieldName": "codeAlpha3",
+            "fieldType": "String",
+            "fieldValidateRules": [
+                "required"
+            ]
+        },
+        {
+            "fieldName": "continent",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "indicatif",
+            "fieldType": "String"
+        },
+        {
+            "fieldName": "source",
+            "fieldType": "String"
+        }
+    ],
+    "relationships": [],
+    "changelogDate": "20190301070339",
+    "entityTableName": "country",
+    "dto": "no",
+    "pagination": "no",
+    "service": "serviceClass",
+    "jpaMetamodelFiltering": false,
+    "fluentMethods": true,
+    "clientRootFolder": "referential",
+    "applications": "*",
+    "microserviceName": "referential"
+}

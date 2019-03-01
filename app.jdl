@@ -1,0 +1,10 @@
+entity Country {
+    name String required
+    codeAlpha2 String required
+    codeAlpha3 String required
+    continent String
+    indicatif String
+    source String
+}
+
+service Country with serviceClass
